@@ -1,4 +1,6 @@
 a=10
-b=2
+b=5
 c=a/b
+
+
 print"div"
